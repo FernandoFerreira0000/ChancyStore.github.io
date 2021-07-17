@@ -1,0 +1,43 @@
+h1 {
+	color: #48807F; 
+}
+
+h2 {
+	color: #031FF7;
+}
+
+ol {
+  background: #ff9999;
+  padding: 5px;
+}
+
+ul {
+  background: #3399ff;
+  padding: 5px;
+}
+
+ol li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 35px;
+  padding: 5px;
+}
+
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+    padding: 5px;
+}
+
+body{
+	background: #2EC1BD;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}

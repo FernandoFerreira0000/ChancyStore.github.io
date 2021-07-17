@@ -1,0 +1,16 @@
+body {
+	background: whitesmoke;
+}
+
+p {
+	color: rebeccapurple;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	color: red;
+}

@@ -1,0 +1,25 @@
+body {
+	background: salmon;
+}
+
+h1 {
+	color: ghostwhite;
+}
+
+h2 {
+	color: wheat;
+}
+
+p {
+	text-align: justify;
+	letter-spacing: 1.5px;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	color: red;
+}

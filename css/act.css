@@ -1,0 +1,48 @@
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td,#customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #BCDEEC;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #08ABEF;
+  color: white;
+}
+
+.set {
+  color: black;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.set:hover {
+  color: #000EFF;
+}
+
+.n {
+  padding: 54px;
+}
+
+.act {
+  text-decoration: none;
+  color: black;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.act:hover {
+  color: #000EFF;
+}
